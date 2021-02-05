@@ -1,0 +1,20 @@
+
+    *{
+        background-color: blue;
+    }
+    h1{
+      color: #dd0f0f;  
+    }
+
+    .Start{
+        border:solid;
+        background-color: aqua;
+    }
+
+    .End{
+        background-color: blueviolet;
+    }
+    .images{
+        display:flex;
+        justify-content: space-evenly
+    }
